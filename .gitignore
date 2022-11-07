@@ -5,9 +5,11 @@ __pycache__/
 
 # C extensions
 *.so
-artifact
 .vscode
+artifact
+
 sensor/configuration/mongo_db_connection.py
+saved_models/*
 # Distribution / packaging
 .Python
 build/
