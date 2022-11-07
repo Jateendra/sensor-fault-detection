@@ -10,6 +10,7 @@ artifact
 
 sensor/configuration/mongo_db_connection.py
 saved_models/*
+env.yaml
 # Distribution / packaging
 .Python
 build/
