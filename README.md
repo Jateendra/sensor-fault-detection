@@ -72,3 +72,13 @@ Step 4 : Keep creating folders and structure for the project . Then push to Git 
     git push origin main --force
     history
     ```
+
+Step-5 : How to run the application .
+
+```
+if __name__=="__main__":
+    #main()
+    # set_env_variable(env_file_path)
+    app_run(app, host=APP_HOST, port=APP_PORT) # To run it via Github->AWS
+    # app_run(app) # To run the code locally
+```    
